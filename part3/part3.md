@@ -1,7 +1,7 @@
 ## Part 3
 1. The bug was that the 'calculate' button was not actually adding two integers together, but instead, concatenating two strings.
 2. I would fix it by converting the strings 'num1' and 'num2' to integer values using parseInt() as shown in the picture:
-   ![Screenshot]('fixedBug.png')
+   ![Screenshot](fixedBug.png)
 
 3. citylots.json
 4. part2.js
